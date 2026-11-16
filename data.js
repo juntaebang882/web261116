@@ -42,6 +42,6 @@ const movies = [
         year: 2026, 
         date: "2026-05-21",
         rating: 8.2, 
-        poster: "https://image.tmdb.org/t/p/w342/hDPGsJxo8xX0OyqcMB8xI3RdaF3.jpg" // TMDB 경로 예시 (실제 영화 path로 확인 필요)
+        poster: "https://image.tmdb.org/t/p/w342/hDPGsJxo8xX0OyqcMB8xI3RdaF3.jpg" 
     }
 ];

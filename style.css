@@ -108,7 +108,7 @@ section h2 {
     margin-bottom: 16px;
 }
 
-/* 11주차 실습 툴바 스타일 추가 */
+
 .toolbar {
     display: flex;
     align-items: center;
@@ -200,7 +200,7 @@ section h2 {
     font-weight: bold;
 }
 
-/* 평점 8 이상인 영화 배지 강조 스타일 (안내서 3단계 반영) */
+
 .card.hot .badge { 
     background: crimson; 
     color: #fff; 
